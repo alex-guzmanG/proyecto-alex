@@ -1,0 +1,22 @@
+body {
+    background-color: tan;
+}
+.primero {
+    color: gold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.segundo {
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+}
+.tercero {
+    color: darkblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.cuarto {
+    background-color: red;
+}
+.titulo {
+    color: black;
+    text-align: center;
+}
